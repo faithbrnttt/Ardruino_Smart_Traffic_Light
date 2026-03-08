@@ -171,7 +171,8 @@ delay(3000);
 
 digitalWrite(yellowLED, LOW);
 digitalWrite(redLED, HIGH);
-delay(10000);```
+delay(10000);
+```
 
 This sequence creates a repeating traffic signal pattern.
 
