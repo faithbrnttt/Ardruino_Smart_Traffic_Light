@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚦 Arduino Smart Traffic Light System
+# Arduino Smart Traffic Light System
 
 ### Embedded Systems • Smart Infrastructure • IoT Prototyping
 
@@ -8,9 +8,9 @@ A microcontroller-based traffic signal simulation designed to demonstrate how em
 
 ---
 
-👩‍💻 **Created by Faith Burnett**  
+**Created by Faith Burnett**  
 Full-Stack Developer • Data Engineering • Systems Integration  
-🌐 https://faithb.dev
+https://faithb.dev
 
 </div>
 
@@ -224,13 +224,13 @@ Faith Burnett
 Full-Stack Developer
 Data Engineering • Systems Integration
 
-🌐 Portfolio
+Portfolio
 https://faithb.dev
 
-💻 GitHub
+GitHub
 https://github.com/faithbrnttt
 
-🔗 LinkedIn
+LinkedIn
 https://www.linkedin.com/in/faithbdev
 
 ---
@@ -240,6 +240,6 @@ https://www.linkedin.com/in/faithbdev
 
 <div align="center">
 
-⭐ If you found this project interesting, feel free to star the repo!
+If you found this project interesting, feel free to star the repo!
 
 </div>
